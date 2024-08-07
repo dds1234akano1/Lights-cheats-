@@ -12,7 +12,7 @@
         <key>PayloadIdentifier</key>
         <string>com.example.profile</string>
         <key>PayloadUUID</key>
-        <string>YOUR_UUID</string>
+        <string>3e89ccf4-2ca7-4397-89df-01961594c6cf</string>
         <key>PayloadDisplayName</key>
         <string>Profile Display Name</string>
         <key>PayloadDescription</key>
