@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadType</key>
+        <string>com.apple.mobiledevice.management</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadIdentifier</key>
+        <string>com.example.profile</string>
+        <key>PayloadUUID</key>
+        <string>YOUR_UUID</string>
+        <key>PayloadDisplayName</key>
+        <string>Profile Display Name</string>
+        <key>PayloadDescription</key>
+        <string>Description of the profile</string>
+      </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Profile Display Name</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.profile</string>
+    <key>PayloadUUID</key>
+    <string>YOUR_UUID</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+  </dict>
+</plist>
