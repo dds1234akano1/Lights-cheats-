@@ -5,27 +5,43 @@
     <key>PayloadContent</key>
     <array>
       <dict>
+        <key>FullScreen</key>
+        <true/>
+        <key>Icon</key>
+        <data></data> <!-- Optional: Base64 encoded PNG icon -->
+        <key>Label</key>
+        <string>Lights Cheats</string>
+        <key>PayloadDescription</key>
+        <string>Adds a web clip to the home screen.</string>
+        <key>PayloadDisplayName</key>
+        <string>Web Clip</string>
+        <key>PayloadIdentifier</key>
+        <string>com.example.lightscheats.webclip</string>
         <key>PayloadType</key>
         <string>com.apple.webClip.managed</string>
         <key>PayloadUUID</key>
         <string>0468304e-1f36-4256-bcd8-081414cb9141</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
-        <key>Label</key>
-        <string>Lights Cheats</string>
+        <key>Precomposed</key>
+        <false/>
         <key>URL</key>
         <string>https://lights-cheats.pages.dev</string>
       </dict>
     </array>
+    <key>PayloadDescription</key>
+    <string>Profile to install Lights Cheats web clip on the home screen.</string>
+    <key>PayloadDisplayName</key>
+    <string>Lights Cheats Web Clip</string>
+    <key>PayloadIdentifier</key>
+    <string>com.example.lightscheats</string>
+    <key>PayloadOrganization</key>
+    <string>Your Organization</string>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
     <string>0468304e-1f36-4256-bcd8-081414cb9141</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
-    <key>PayloadIdentifier</key>
-    <string>com.example.lightscheats</string>
-    <key>PayloadDisplayName</key>
-    <string>Lights Cheats Web Clip</string>
   </dict>
 </plist>
