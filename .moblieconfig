@@ -8,7 +8,7 @@
         <key>FullScreen</key>
         <true/>
         <key>Icon</key>
-        <data> <!-- Base64 encoded PNG icon here --> </data>
+        <data> <!-- Base64 encoded PNG icon here (optional) --> </data>
         <key>Label</key>
         <string>Lights Cheats</string>
         <key>PayloadDescription</key>
@@ -20,13 +20,13 @@
         <key>PayloadType</key>
         <string>com.apple.webClip.managed</string>
         <key>PayloadUUID</key>
-        <string>YOUR-UUID-HERE</string>
+        <string>0468304e-1f36-4256-bcd8-081414cb9141</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>Precomposed</key>
         <false/>
         <key>URL</key>
-        <string>https://lights-cheats.pages.dev</string>
+        <string>https://dds1234akano1.github.io/Lights-cheats-/</string>
       </dict>
     </array>
     <key>PayloadDescription</key>
@@ -40,7 +40,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>3e89ccf4-2ca7-4397-89df-01961594c6cf</string>
+    <string>0468304e-1f36-4256-bcd8-081414cb9141</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
   </dict>
